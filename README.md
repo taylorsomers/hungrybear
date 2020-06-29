@@ -13,7 +13,7 @@ SECOND:
   $ git commit -m "Initial global commit"
   $ npm run start
 
-# [Program Title]
+# Hungrybear
 
   ### By [Author(s)]
 
