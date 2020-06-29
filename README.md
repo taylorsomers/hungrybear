@@ -1,41 +1,20 @@
-Get Started:
-
-FIRST: [REMEMBER TO (1) CHANGE package.json PROJECT NAME AND DESCRIPTION TO CURRENT PROJECT NAME AND DESCRIPTION, (2) CHANGE TITLE OF HtmlWebpackPlugin IN webpack.config.js TO CURRENT PROJECT NAME, AND (3) CHANGE TITLE OF project-name.js IN SRC DIRECTORY TO NAME OF CURRENT PROJECT.]
-
-SECOND:
-  $ npm install
-  $ npm install dotenv-webpack --save-dev
-  $ git init
-  $ git add .gitignore
-  $ git commit -m "Activate .gitignore"
-  $ npm run build
-  $ git add .
-  $ git commit -m "Initial global commit"
-  $ npm run start
-
 # Hungrybear
 
-  ### By [Author(s)]
+  ### By Taylor Somers
 
 ## Description
 
-  [Description of program functionality & intent presented as an elevator pitch.]
+  This program is a basic demonstration of setInterval JavaScript methods and was created by following along with the corresponding Epicodus lesson.
 
 ## Languages & Technologies Used:
 
   ### Programming Languages & Libraries
-  * Bootstrap
-  * CSS
-  * HTML
   * JavaScript
-  * jQuery
   * Node
   * WebPack
 
   ### Operating Systems & Programs
-  * Brave
   * Git Bash
-  * Google Chrome
   * Microsoft Windows 10
   * Visual Studio Code
 
@@ -53,13 +32,6 @@ SECOND:
   10. Enter the command "$ npm run start" in the terminal and press "Enter".
   11. The program should open and run with its user interface accessible in your default web browser.
 
-## Specifications
-
-  | Program Behavior | Example Behavior | Example Output |
-  | ----------- | ----------- | ----------- |
-  |  |  |  |
-  
-
 ## Known Bugs
 
   * No known bugs at this time. If any are discovered, please feel free to reach out and let me know. If you would like to contribute any fixes or improvements, please do!
@@ -67,7 +39,6 @@ SECOND:
 ### Contributors
 
   * Taylor Somers
-  * [Other Contributor(s): Anyone who contributed at least %5 of the total product.]
 
 ### License
 
